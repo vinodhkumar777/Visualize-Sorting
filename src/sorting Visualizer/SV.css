@@ -1,0 +1,36 @@
+.array-container {
+    position: absolute;
+    left: 400px;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+  
+  .button-container {
+    margin-top: 50px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  
+  .element {
+    width: 100px; 
+    height: 50px; 
+    background-color: rgb(29, 19, 235);
+    text-align: center;
+    padding:10px;
+    border-radius: 5px;
+    color:bisque;
+    text-decoration: solid;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  
+  
